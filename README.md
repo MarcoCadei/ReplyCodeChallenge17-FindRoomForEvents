@@ -21,3 +21,7 @@ I used Python 3 to solve the problem.
 
 #### Input 4
 ![Input 4](/visualizations/solution4.png)
+
+###### Legend
+Allocated events displayed in **blue** (more is lighter, more the event is not occupying the full room occupancy)
+Unallocated room timeframes displayed in **red** (more is darker, more the room is not used the full time)
